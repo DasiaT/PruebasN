@@ -2,7 +2,9 @@
 
 FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
 WORKDIR /app
-EXPOSE 5289
+
+EXPOSE 5289/tcp
+EXPOSE 5280/udp
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
