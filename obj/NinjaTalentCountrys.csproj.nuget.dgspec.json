@@ -48,6 +48,10 @@
               "target": "Package",
               "version": "[7.0.10, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.4, )"
@@ -55,6 +59,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "parse": {
+              "target": "Package",
+              "version": "[1.7.0, )"
             }
           },
           "imports": [

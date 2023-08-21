@@ -1,0 +1,17 @@
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\NinjaTalentCountrys.exe
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\NinjaTalentCountrys.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\NinjaTalentCountrys.deps.json
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\NinjaTalentCountrys.runtimeconfig.json
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\NinjaTalentCountrys.pdb
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\altorres\Documents\GitHub\3bf8d299-61751\src\NinjaTalentCountrys\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
