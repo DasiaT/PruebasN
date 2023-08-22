@@ -1269,11 +1269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\altorres\\Documents\\GitHub\\3bf8d299-61751\\src\\NinjaTalentCountrys\\NinjaTalentCountrys.csproj",
+      "projectUniqueName": "C:\\Users\\altorres\\Documents\\GitHub\\PruebasN\\NinjaTalentCountrys.csproj",
       "projectName": "NinjaTalentCountrys",
-      "projectPath": "C:\\Users\\altorres\\Documents\\GitHub\\3bf8d299-61751\\src\\NinjaTalentCountrys\\NinjaTalentCountrys.csproj",
+      "projectPath": "C:\\Users\\altorres\\Documents\\GitHub\\PruebasN\\NinjaTalentCountrys.csproj",
       "packagesPath": "C:\\Users\\altorres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\altorres\\Documents\\GitHub\\3bf8d299-61751\\src\\NinjaTalentCountrys\\obj\\",
+      "outputPath": "C:\\Users\\altorres\\Documents\\GitHub\\PruebasN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\altorres\\AppData\\Roaming\\NuGet\\NuGet.Config",

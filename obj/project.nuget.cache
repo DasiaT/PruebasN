@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YMPWKT1CnGCQtX8H4Q4KaGn+iNEKCbneP0EsJiTrfPvq4iqOvnI+qxRD+NTRIu2XG3iBaxA1anaAHj3GjT8H9Q==",
+  "dgSpecHash": "dv3doUatD5US1KlFr4ry5fRfrS3zeCQ2WiVgavhlpTFKIu/rvvVDYMoALRW2qOphkqHp2O7BrthuX+2nF8bAeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\altorres\\Documents\\GitHub\\3bf8d299-61751\\src\\NinjaTalentCountrys\\NinjaTalentCountrys.csproj",
+  "projectFilePath": "C:\\Users\\altorres\\Documents\\GitHub\\PruebasN\\NinjaTalentCountrys.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\altorres\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\altorres\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
