@@ -4,6 +4,17 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//PARA PERMITIR QUE ENVIE O RECIBA DE CUALQUIER LUGAR O APP
+
+builder.Services.AddCors(o => o.AddPolicy("AllowAnyOrigin",
+    builder =>
+    {
+        builder.AllowAnyHeader()
+        .AllowAnyMethod()
+        .AllowAnyHeader()
+        .AllowAnyOrigin();
+    }));
+//FIN
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -32,7 +43,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-
+app.UseCors("AllowAnyOrigin");
 //var conexion = builder.Configuration.GetConnectionString("DeskPostgresqlConnection");
 
 //builder.Services.AddDbContext<InterfacesDBContext>(options =>
