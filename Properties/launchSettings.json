@@ -31,12 +31,10 @@
     "Docker": {
       "commandName": "Docker",
       "launchBrowser": true,
-      "launchUrl": "swagger",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/swagger",
       "publishAllPorts": true,
       "useSSL": true
-    },
-    "dotnetRunMessages": true,
-    "applicationUrl": "http://localhost:443"
+    }
   },
   "$schema": "https://json.schemastore.org/launchsettings.json",
   "iisSettings": {

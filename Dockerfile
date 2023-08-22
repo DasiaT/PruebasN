@@ -5,7 +5,7 @@ WORKDIR /app
 #PARA DOCKER
 EXPOSE 80
 #PARA LOCAL
-EXPOSE 443
+#EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
