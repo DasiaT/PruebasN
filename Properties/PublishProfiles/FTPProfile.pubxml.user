@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAh1nNSO+O9EiCjc9UXaHGxQAAAAACAAAAAAADZgAAwAAAABAAAADCF91xpgyOA3Y/fjSEq8fIAAAAAASAAACgAAAAEAAAAHz+O+Ihe5xs+dt+ImxowNogAAAAPL1nnZOPKq9iMnG1ERtkkdSEk5eGSS0B8BEdcK9KJAYUAAAAGRDLVccDx3lYQZVhJFqX0A/z/6E=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://155.254.244.38/www.pruebasN.somee.com/www.pruebasN.somee.com/swagger</_PublishTargetUrl>
+    <History>True|2023-08-24T23:25:10.4605496Z;True|2023-08-22T04:40:25.1748500-06:00;False|2023-08-22T04:35:36.0924163-06:00;True|2023-08-22T04:25:55.0704077-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/21/2023 05:37:14</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>08/21/2023 06:44:22</publishTime>
+    </File>
+    <File Include="appsettings.production.json">
+      <publishTime>08/24/2023 17:22:52</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>01/30/2023 11:45:12</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>07/12/2023 14:37:50</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>07/12/2023 14:38:06</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>03/15/2023 12:09:50</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>09/26/2022 06:32:38</publishTime>
+    </File>
+    <File Include="Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/18/2022 10:16:52</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 01:09:54</publishTime>
+    </File>
+    <File Include="NinjaTalentCountrys.deps.json">
+      <publishTime>08/24/2023 17:22:44</publishTime>
+    </File>
+    <File Include="NinjaTalentCountrys.dll">
+      <publishTime>08/24/2023 17:22:43</publishTime>
+    </File>
+    <File Include="NinjaTalentCountrys.exe">
+      <publishTime>08/24/2023 17:22:43</publishTime>
+    </File>
+    <File Include="NinjaTalentCountrys.pdb">
+      <publishTime>08/24/2023 17:22:43</publishTime>
+    </File>
+    <File Include="NinjaTalentCountrys.runtimeconfig.json">
+      <publishTime>08/24/2023 17:22:44</publishTime>
+    </File>
+    <File Include="Npgsql.dll">
+      <publishTime>04/24/2023 08:12:08</publishTime>
+    </File>
+    <File Include="Npgsql.EntityFrameworkCore.PostgreSQL.dll">
+      <publishTime>04/24/2023 09:22:08</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll">
+      <publishTime>10/18/2022 10:17:28</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/System.Drawing.Common.dll">
+      <publishTime>10/18/2022 10:17:44</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/net7.0/System.Windows.Extensions.dll">
+      <publishTime>10/18/2022 10:17:52</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>07/19/2022 09:21:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>07/19/2022 09:21:38</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>07/19/2022 09:21:48</publishTime>
+    </File>
+    <File Include="System.Drawing.Common.dll">
+      <publishTime>10/18/2022 10:17:04</publishTime>
+    </File>
+    <File Include="System.Net.Http.Json.dll">
+      <publishTime>02/15/2023 18:38:44</publishTime>
+    </File>
+    <File Include="System.Security.Permissions.dll">
+      <publishTime>10/18/2022 10:17:12</publishTime>
+    </File>
+    <File Include="System.Windows.Extensions.dll">
+      <publishTime>10/18/2022 10:17:10</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>08/24/2023 17:22:52</publishTime>
+    </File>
+  </ItemGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Kestrel:Certificates:Development:Password">
+      <Value>Server=pg-33d72382-allan-7daa.aivencloud.com%3bPort=21888%3bDatabase=defaultdb%3bUser Id=avnadmin%3bPassword=AVNS_anS28AhYZ_F9rrE6DqQ%3bTrustServerCertificate=true%3bIntegrated Security=true%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

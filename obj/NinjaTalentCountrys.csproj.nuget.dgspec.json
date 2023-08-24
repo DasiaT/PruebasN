@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[1.17.2, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[7.0.4, )"
@@ -60,9 +64,17 @@
               "target": "Package",
               "version": "[6.4.0, )"
             },
-            "parse": {
+            "System.Net.Http": {
               "target": "Package",
-              "version": "[1.7.0, )"
+              "version": "[4.3.4, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

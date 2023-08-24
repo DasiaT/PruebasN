@@ -50,8 +50,6 @@ C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Microsoft.EntityFra
 C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Microsoft.OpenApi.dll
 C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Npgsql.dll
 C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
-C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Parse.NetFx45.dll
-C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Parse.dll
 C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -76,3 +74,12 @@ C:\Users\altorres\Documents\GitHub\PruebasN\obj\Debug\net7.0\refint\NinjaTalentC
 C:\Users\altorres\Documents\GitHub\PruebasN\obj\Debug\net7.0\NinjaTalentCountrys.pdb
 C:\Users\altorres\Documents\GitHub\PruebasN\obj\Debug\net7.0\NinjaTalentCountrys.genruntimeconfig.cache
 C:\Users\altorres\Documents\GitHub\PruebasN\obj\Debug\net7.0\ref\NinjaTalentCountrys.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\System.Net.Http.Json.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\altorres\Documents\GitHub\PruebasN\bin\Debug\net7.0\Newtonsoft.Json.dll

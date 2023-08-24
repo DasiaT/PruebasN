@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("18db2b77-07de-4dde-808c-2be52bc8eee0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NinjaTalentCountrys")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

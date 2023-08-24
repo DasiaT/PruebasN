@@ -12,8 +12,7 @@
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.17.2",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "7.0.4",
-          "Swashbuckle.AspNetCore": "6.4.0",
-          "Parse": "1.7.0"
+          "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
           "NinjaTalentCountrys.dll": {}
@@ -139,18 +138,6 @@
           "lib/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll": {
             "assemblyVersion": "7.0.4.0",
             "fileVersion": "7.0.4.0"
-          }
-        }
-      },
-      "Parse/1.7.0": {
-        "runtime": {
-          "lib/net45/Parse.NetFx45.dll": {
-            "assemblyVersion": "1.7.0.0",
-            "fileVersion": "1.7.0.0"
-          },
-          "lib/net45/Parse.dll": {
-            "assemblyVersion": "1.7.0.0",
-            "fileVersion": "1.7.0.0"
           }
         }
       },
@@ -332,13 +319,6 @@
       "sha512": "sha512-ZYMtyG6pmLtUsFAx0/XaIlVkJM+1gArWEKD55cLLxiVlGScAphjiGj+G7Gk16yg5lhhdWx+bgXWpIUISXuS33g==",
       "path": "npgsql.entityframeworkcore.postgresql/7.0.4",
       "hashPath": "npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512"
-    },
-    "Parse/1.7.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-3LyEXZXXricjXfgxt1HsmUQK6u82bwNHf+PfV+dq+K6Fg6GZO4bb/khiD/CDLJaPNoZe06Ko+cwxyHrGoG98Ig==",
-      "path": "parse/1.7.0",
-      "hashPath": "parse.1.7.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",

@@ -39,7 +39,7 @@ namespace NinjaTalentCountrys.Functions
             {
                 return 1;
             }
-
+            //si es 0 es que esta vacio
             return 0;
         }
        
