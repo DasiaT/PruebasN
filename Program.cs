@@ -33,12 +33,15 @@ builder.Services.AddDbContext<InterfacesDBContext>(
 );
 //fin de conexion
 
-var app = builder.Build();
 
+builder.Services.AddHttpClient();
+
+var app = builder.Build();
 //// Configure the HTTP request pipeline.
 //if (app.Environment.IsDevelopment())
 //{
-   
+//app.UseSwagger();
+//app.UseSwaggerUI();
 //}
 
 app.UseSwagger();
@@ -46,10 +49,7 @@ app.UseSwaggerUI();
 
 
 app.UseCors("AllowAnyOrigin");
-//var conexion = builder.Configuration.GetConnectionString("DeskPostgresqlConnection");
 
-//builder.Services.AddDbContext<InterfacesDBContext>(options =>
-//     options.UseNpgsql(conexion));
 
 app.UseHttpsRedirection();
 
