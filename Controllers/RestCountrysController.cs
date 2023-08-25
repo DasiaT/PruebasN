@@ -126,13 +126,21 @@ namespace NinjaTalentCountrys.Controllers
                 {
                     var countries = await response.Content.ReadFromJsonAsync<Country[]>();
 
-                    string Svg = countries[0].Flags.Svg.ToString();
+                    if (countries.Count() != 0)
+                    {
+                        string Svg = countries[0].Flags.Svg.ToString();
+                        string Pais = countries[0].Name.Common.ToString();
 
-                    SvgToBase64 valores = new SvgToBase64();
+                        SvgToBase64 svgToBase64 = new SvgToBase64();
 
-                    string banderaConvertida = await valores.ConvertSvgUrlToBase64Async(Svg);
+                        string banderaConvertida = await svgToBase64.ConvertSvgUrlToBase64Async(Svg);
 
-                    return Ok(new { Pais = Name, imagen = banderaConvertida });
+                        return Ok(new { Pais = Pais, imagen = banderaConvertida });
+                    }
+                    else
+                    {
+                        return Problem("No se encontro ningun pais.");
+                    }
                 }
                 else
                 {

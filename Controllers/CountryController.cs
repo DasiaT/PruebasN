@@ -168,22 +168,29 @@ namespace NinjaTalentCountrys.Controllers
         [HttpDelete("{id}")]
         public async Task<ActionResult<CountryModel>> DeleteCountry(string id)
         {
-            if (_context.CountryModel == null)
+            try
             {
-                return NotFound("No se encontró ningun país en la base de datos.");
-            }
-            var delivery_Categoria = await _context.CountryModel.FirstOrDefaultAsync(x => x.id.ToString() == id);
+                if (_context.CountryModel == null)
+                {
+                    return NotFound("No se encontró ningun país en la base de datos.");
+                }
+                var delivery_Categoria = await _context.CountryModel.FirstOrDefaultAsync(x => x.id.ToString() == id);
 
-            if (delivery_Categoria == null)
+                if (delivery_Categoria == null)
+                {
+                    return NotFound("No se encontró el país en la base de datos.");
+                }
+
+                _context.CountryModel.Remove(delivery_Categoria);
+
+                await _context.SaveChangesAsync();
+
+                return Ok();
+            }
+            catch (Exception error)
             {
-                return NotFound("No se encontró el país en la base de datos.");
+                return Problem("Error en el servidor: " + error.Message);
             }
-
-            _context.CountryModel.Remove(delivery_Categoria);
-
-            await _context.SaveChangesAsync();
-
-            return NoContent();
         }
 
 

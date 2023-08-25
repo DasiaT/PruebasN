@@ -5,7 +5,6 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 //PARA PERMITIR QUE ENVIE O RECIBA DE CUALQUIER LUGAR O APP
-
 builder.Services.AddCors(o => o.AddPolicy("AllowAnyOrigin",
     builder =>
     {
