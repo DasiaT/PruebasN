@@ -7,14 +7,14 @@ namespace Delivery_Backend.Models
     {
         public InterfacesDBContext(DbContextOptions<InterfacesDBContext> options) : base(options) { }
         public DbSet<CountryModel> CountryModel { get; set; }
-
-        //public DbSet<RestCountryModel> RestCountryModel { get; set; }
-
+        public DbSet<UserModel> UsuariosModel { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
              modelBuilder.Entity<CountryModel>().ToTable("country");
+
+             modelBuilder.Entity<UserModel>().ToTable("Usuarios");
         }
     }
 }
